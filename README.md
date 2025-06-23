@@ -9,7 +9,7 @@
 - 🚀 I'm currently learning **React, Node.js**, and **UI/UX with Figma**  
 - 🤝 I’m looking to collaborate on **web-based and AI-related projects**  
 - 💬 Ask me about: **Java, PHP, HTML/CSS, MySQL**  
-- 📬 Reach me at: **umeshikavindya@gmail.com**  
+- 📬 Reach me at: **umeshi2kavindya@gmail.com**  
 - 🌟 Fun fact: I love building beautiful UIs and solving real-world problems  
 
 ---
