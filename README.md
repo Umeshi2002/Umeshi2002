@@ -38,4 +38,4 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/umeshi-kavindya-94606a277/)  
-[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=flat-square)](https://medium.com/@your-profile)
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=flat-square)](https://medium.com/@umeshi2kavindya)
